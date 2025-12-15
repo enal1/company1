@@ -1,0 +1,53 @@
+{
+  "Header": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "title": "CongLin Technology",
+    "subtitle": "Professional Enterprise Informatization Solution Provider",
+    "description": "Providing comprehensive informatization services including Dingjie T100, EasyFly, EasyHelp, sMES, etc.",
+    "cta": "Learn More"
+  },
+  "About": {
+    "title": "About Us",
+    "description": "CongLin Technology Co., Ltd. focuses on providing professional informatization solutions for enterprises, helping them achieve digital transformation. We have an experienced technical team dedicated to providing high-quality products and services to our customers.",
+    "mission": "Our Mission: Help enterprises achieve efficient management and enhance core competitiveness",
+    "vision": "Our Vision: Become a leading enterprise informatization solution provider in the industry"
+  },
+  "Products": {
+    "title": "Products & Services",
+    "description": "We provide comprehensive enterprise informatization solutions to meet the needs of different enterprises",
+    "items": [
+      {
+        "name": "Dingjie T100",
+        "description": "Large enterprise ERP system, supporting multi-organization, multi-factory, multi-language",
+        "icon": "🏭"
+      },
+      {
+        "name": "EasyFly ERP",
+        "description": "Medium enterprise ERP system, comprehensive functions, easy to implement",
+        "icon": "📊"
+      },
+      {
+        "name": "EasyHelp ERP",
+        "description": "Small enterprise ERP system, high cost performance, quick launch",
+        "icon": "🚀"
+      },
+      {
+        "name": "sMES System",
+        "description": "Manufacturing Execution System, realizing visual management of production processes",
+        "icon": "⚙️"
+      }
+    ]
+  },
+  "Footer": {
+    "copyright": "© 2025 CongLin Technology Co., Ltd. All rights reserved",
+    "contact": "Contact Us",
+    "address": "Zhangjiang High-Tech Park, Pudong New Area, Shanghai",
+    "phone": "400-123-4567",
+    "email": "info@conglink.com"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "Header": {
+    "home": "首页",
+    "about": "关于我们",
+    "products": "产品服务",
+    "contact": "联系我们"
+  },
+  "Hero": {
+    "title": "从林科技",
+    "subtitle": "专业的企业信息化解决方案提供商",
+    "description": "为企业提供鼎捷T100、易飞、易助、sMES等全方位信息化服务",
+    "cta": "了解更多"
+  },
+  "About": {
+    "title": "关于我们",
+    "description": "从林科技有限公司专注于为企业提供专业的信息化解决方案，助力企业数字化转型。我们拥有一支经验丰富的技术团队，致力于为客户提供优质的产品和服务。",
+    "mission": "我们的使命：帮助企业实现高效管理，提升核心竞争力",
+    "vision": "我们的愿景：成为行业领先的企业信息化解决方案提供商"
+  },
+  "Products": {
+    "title": "产品服务",
+    "description": "我们提供全方位的企业信息化解决方案，满足不同企业的需求",
+    "items": [
+      {
+        "name": "鼎捷T100",
+        "description": "大型企业ERP系统，支持多组织、多工厂、多语言",
+        "icon": "🏭"
+      },
+      {
+        "name": "易飞ERP",
+        "description": "中型企业ERP系统，功能全面，易于实施",
+        "icon": "📊"
+      },
+      {
+        "name": "易助ERP",
+        "description": "小型企业ERP系统，性价比高，快速上线",
+        "icon": "🚀"
+      },
+      {
+        "name": "sMES系统",
+        "description": "制造执行系统，实现生产过程可视化管理",
+        "icon": "⚙️"
+      }
+    ]
+  },
+  "Footer": {
+    "copyright": "© 2025 从林科技有限公司. 保留所有权利",
+    "contact": "联系我们",
+    "address": "上海市浦东新区张江高科技园区",
+    "phone": "400-123-4567",
+    "email": "info@conglink.com"
+  }
+}
